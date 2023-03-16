@@ -1,0 +1,16 @@
+PODS:
+  - JRExtensionsModule (0.1.0)
+
+DEPENDENCIES:
+  - JRExtensionsModule (from `../`)
+
+EXTERNAL SOURCES:
+  JRExtensionsModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JRExtensionsModule: 56396a3e4acec1ef4b1f960a6009554751809b88
+
+PODFILE CHECKSUM: 1368e6fa997fc416fdf1567ec01286941ffab874
+
+COCOAPODS: 1.12.0

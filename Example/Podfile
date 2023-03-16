@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '13.0'
+
+target 'JRExtensionsModule_Example' do
+  pod 'JRExtensionsModule', :path => '../'
+
+  target 'JRExtensionsModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
